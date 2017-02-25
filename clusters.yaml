@@ -14,3 +14,8 @@
   Name: lstest3
   Provider: google
   Src: lstest3.yaml
+- Account: lucid-timing-151005
+  MasterIP: ""
+  Name: lstest4
+  Provider: google
+  Src: lstest4.yaml
