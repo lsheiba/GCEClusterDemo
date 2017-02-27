@@ -3,12 +3,6 @@
   Name: master-test
   Provider: google
   Src: master-test.yaml
-- Account: testcluster-158807
-  MasterIP: ""
-  Name: test1
-  Provider: google
-  Src: test1.yaml
-  Status: Undefined
 - Account: lucid-timing-151005
   MasterIP: ""
   Name: lstest3
